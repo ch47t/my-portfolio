@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1404c027.css",
-    "main.js": "/my-portfolio/static/js/main.a8c93ad1.js",
+    "main.css": "/my-portfolio/static/css/main.ca26ffbf.css",
+    "main.js": "/my-portfolio/static/js/main.71b4c912.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/7.sql_injection.png": "/my-portfolio/static/media/7.sql_injection.17095385afe324a83f9a.png",
     "static/media/3.EHE.png": "/my-portfolio/static/media/3.EHE.252d89914c62fecc3a70.png",
     "static/media/6.security+_certificate.jpg": "/my-portfolio/static/media/6.security+_certificate.19ab92f06dc4b01ef023.jpg",
     "static/media/background3.png": "/my-portfolio/static/media/background3.9ccccbe7927e1b654d9c.png",
     "static/media/0.secops_certificate.png": "/my-portfolio/static/media/0.secops_certificate.3b97544d4f301c292774.png",
+    "static/media/404 error.png": "/my-portfolio/static/media/404 error.6e3ae1452b7958b16bd9.png",
     "static/media/matlab.png": "/my-portfolio/static/media/matlab.da03e4a0dfa725b0bf4c.png",
+    "static/media/Hash Breaker.jpg": "/my-portfolio/static/media/Hash Breaker.c037dbd076d62299f78a.jpg",
     "static/media/2.cybersecurity for everyone(coursera).jpg": "/my-portfolio/static/media/2.cybersecurity for everyone(coursera).7535da6eb183d08e7098.jpg",
     "static/media/4.Ethical_Hacker_Badge .jpg": "/my-portfolio/static/media/4.Ethical_Hacker_Badge .08f66ea7ddf0507cc88f.jpg",
     "static/media/1.Introduction_to_Cybersecurity_Badge .jpg": "/my-portfolio/static/media/1.Introduction_to_Cybersecurity_Badge .ea9cd75216b3aadb56d6.jpg",
     "static/media/5.Fortinet_Certified_Fundamentals_in_Cybersecurity .jpg": "/my-portfolio/static/media/5.Fortinet_Certified_Fundamentals_in_Cybersecurity .593f7c2519691639ae2d.jpg",
+    "static/media/simpleCryptography.jpg": "/my-portfolio/static/media/simpleCryptography.c15151c9237a1b58cb28.jpg",
     "static/media/labview.png": "/my-portfolio/static/media/labview.123e5cbae73d14aeea5f.png",
     "static/media/person.png": "/my-portfolio/static/media/person.67df89e2378f4d2de287.png",
     "static/media/php.png": "/my-portfolio/static/media/php.7019f5271bf8bf1aeae9.png",
@@ -26,12 +29,12 @@
     "static/media/html.png": "/my-portfolio/static/media/html.397540dec969b31fd37c.png",
     "static/media/tryhackme.svg": "/my-portfolio/static/media/tryhackme.a8caf23b9636a2b1753ea482a99047f8.svg",
     "index.html": "/my-portfolio/index.html",
-    "main.1404c027.css.map": "/my-portfolio/static/css/main.1404c027.css.map",
-    "main.a8c93ad1.js.map": "/my-portfolio/static/js/main.a8c93ad1.js.map",
+    "main.ca26ffbf.css.map": "/my-portfolio/static/css/main.ca26ffbf.css.map",
+    "main.71b4c912.js.map": "/my-portfolio/static/js/main.71b4c912.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1404c027.css",
-    "static/js/main.a8c93ad1.js"
+    "static/css/main.ca26ffbf.css",
+    "static/js/main.71b4c912.js"
   ]
 }
